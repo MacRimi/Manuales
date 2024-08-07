@@ -1,6 +1,6 @@
 # Instalar Kodi en un LCX y conectarlo a un monitor/tv usando la aceleración grafica GPU.
 
-En este manual vamos a ver como de manera muy sencilla podemos instalar Kodi en un LCX usando los recursos de nuestros Proxmox y poder conectarlo a nuestra televisión usando la aceleración grafica y convirtiendo a nuestros servidor con Proxmox en un servidor todo en uno.
+En este manual vamos a ver como de manera muy sencilla podemos instalar Kodi en un LCX usando los recursos de nuestro Proxmox y poder conectarlo a nuestra televisión usando la aceleración grafica y convirtiendo a nuestro servidor con Proxmox en un servidor todo en uno.
 
 Para ella vamos a instalar en el script que ha creado el usuario
  [mrrudy](https://github.com/mrrudy)
@@ -16,7 +16,7 @@ El acceso a tty7 quiere decir que ya le podemos conectar nuestro monitor o tv.
 
 ### Teclado, ratón o mando USB.
 
-El teclado, ratón o los mandos USB son /dev/input para añadirlo la LXC debemos saber que código tiene:
+El teclado, ratón o los mandos USB son /dev/input para añadirlo al LXC debemos saber que código tiene:
 
  ```
 ls -l /dev/input
