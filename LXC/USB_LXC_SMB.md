@@ -140,3 +140,10 @@ ahora ya Podemos usar nuestros disco duro, usarlo dentro del contenedor y ademas
 
 <br>
 
+#
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://ko-fi.com/G2G313ECAN" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/MacRimi/HWEncoderX/main/images/kofi.png" alt="Support me on Ko-fi" style="width:175px; margin-right:65px;"/>
+  </a>
+</div>
+Si este tutorial te ha gustado y te ha sido útil, ¡puedes invitarme a un Ko-fi! ¡Gracias! 😊
