@@ -77,6 +77,10 @@ Cuando termine reiniciamos y cuando arranque ya tendremos Kodi actualizado.
 
 Podemos saber mas de como configurar un LXC con Intel GPU en el blog de [Konpat](https://blog.konpat.me/dev/2019/03/11/setting-up-lxc-for-intel-gpu-proxmox.html)
 
-Enjoy!!
-
-Un tutorial de Proxmology.
+#
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://ko-fi.com/G2G313ECAN" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/MacRimi/HWEncoderX/main/images/kofi.png" alt="Support me on Ko-fi" style="width:175px; margin-right:65px;"/>
+  </a>
+</div>
+Si este tutorial te ha gustado y te ha sido útil, ¡puedes invitarme a un Ko-fi! ¡Gracias! 😊
